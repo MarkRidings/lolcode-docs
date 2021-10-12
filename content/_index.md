@@ -7,3 +7,5 @@ title: LOLCODE
 # LOLCODE
 
 An esoteric programming language
+
+That is so easy to deploy!!
